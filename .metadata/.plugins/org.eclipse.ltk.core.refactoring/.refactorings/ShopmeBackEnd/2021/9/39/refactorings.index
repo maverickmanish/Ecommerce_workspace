@@ -1,0 +1,31 @@
+1632037273125	Extract local variable 'id'
+1632037566876	Extract local variable 'string'
+1632040806760	Delete element
+1632040819931	Delete element
+1632048158382	Extract constant '_4'
+1632048963728	Extract local variable 'listByPage'
+1632049200433	Extract local variable 'totalElements'
+1632049628820	Extract local variable 'totalPages'
+1632050673730	Extract local variable 'asc'
+1632053822435	Extract local variable 'withSort'
+1632061005936	Extract method 'getURLRedirectedToAffectedUser'
+1632221359614	Extract local variable 'userByEmail'
+1632226539144	Move compilation units
+1632227656397	Extract local variable 'listUserByEmail'
+1632232265702	Extract local variable 'user'
+1632244610727	Delete element
+1632244613508	Delete element
+1632377337741	Extract local variable 'save'
+1632378558951	Extract local variable 'findById'
+1632379105016	Extract local variable 'findAll'
+1632380356320	Extract method 'subChildren'
+1632382654914	Extract local variable 'listAll'
+1632404264508	Extract local variable 'children'
+1632411650366	Copy compilation unit
+1632411659845	Rename type 'UsereNotFoundException'
+1632415215710	Extract local variable 'string'
+1632415287082	Extract local variable 'findByName'
+1632470825571	Copy file
+1632488044094	Extract local variable 'listRootCategories'
+1632489760798	Extract local variable 'content'
+1632490451785	Extract local variable 'totalElements'

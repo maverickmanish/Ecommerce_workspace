@@ -1,0 +1,15 @@
+1631898930858	Delete element
+1631899078382	Rename package 'com.shopme'
+1631899510364	Copy compilation unit
+1631899632523	Copy folder
+1631956844844	Rename package 'com.shopme'
+1631960684556	Extract local variable 'find'
+1631960701358	Extract local variable 'save'
+1631961391661	Extract local variable 'findAll'
+1631964151297	Copy compilation unit
+1631964155478	Delete element
+1631964270908	Rename package 'com.shopme.admin.user'
+1631964513155	Copy file
+1631968069803	Extract local variable 'matches'
+1631968630588	Extract local variable 'encode'
+1631973107150	Extract local variable 'email'
